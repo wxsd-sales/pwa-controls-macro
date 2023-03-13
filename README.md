@@ -1,8 +1,15 @@
 # PWA Controls
+Welcome to our WXSD DEMO Repo! <!-- Keep this here --> 
+
+
 This is a simple Macro which gives you the ablity to easily toggle between Persistent Web App and Controller modes on your Webex Navigator. It also lets you change the Persistent Web App URL from a list which can be configured in the Macro.
 
 ![output_RMSTUx(1)](https://user-images.githubusercontent.com/21026209/166060186-c4f0d8ca-22c4-4598-977f-78dd47ab049e.gif)
 
+<!-- Keep the following here -->  
+ *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
+ 
+ 
 ## Exit PWA Mode
 
 ### Using the Macro UI Panel
